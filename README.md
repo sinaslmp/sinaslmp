@@ -1,14 +1,14 @@
-<h1 align="center">Hi, I'm Sina Soleymanpour 👋</h1>
+<div align="center">
 
-<p align="center">
-  Backend & Full-Stack Engineer &nbsp;|&nbsp; Python · Django · Next.js &nbsp;|&nbsp; LLM Integration &nbsp;|&nbsp; Pavia, Italy
-</p>
+# Hi, I'm Sina Soleymanpour 👋
 
-<p align="center">
-  <a href="https://linkedin.com/in/sinasoleymanpour"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  &nbsp;
-  <a href="mailto:Sina.Soleymanpour@yahoo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+**Backend & Full-Stack Engineer** | Python · Django · Next.js | LLM Integration | Pavia, Italy
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sinasoleymanpour)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Sina.Soleymanpour@yahoo.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sinaslmp)
+
+</div>
 
 ---
 
@@ -16,7 +16,7 @@
 
 Backend and Full-Stack Engineer with 4+ years of production experience across fintech, healthcare, and SaaS. I build REST APIs, design PostgreSQL schemas, and integrate LLM APIs into real applications. Currently pursuing an MSc in Electronic Engineering at Università di Pavia, Italy.
 
-EU work authorization — no visa required. Available immediately.
+🇪🇺 EU work authorization — no visa required. Available immediately.
 
 ---
 
@@ -26,61 +26,68 @@ EU work authorization — no visa required. Available immediately.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/Django_REST_Framework-092E20?style=flat-square&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django%20REST-ff1709?style=flat-square&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 
 **Frontend**
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 **Data & Infrastructure**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
 **AI & LLM**
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
 
 ---
 
 ## Currently Working On
 
-- 🏗️ **GPT-Trader** — AI-powered fintech platform with live market data ingestion, LLM-driven strategy analysis, automated backtesting pipelines, and optimized PostgreSQL schemas
-- 🎓 **MSc Electronic Engineering** — Università di Pavia (expected graduation 2026)
+- 🇮🇹 **Learnitali** — Full-stack Italian learning platform for Persian speakers: Next.js 16 + NestJS + PostgreSQL + Redis + JWT auth
+- 🤖 **GPT-Trader** — AI-powered fintech platform with live market data, LLM strategy analysis, and automated backtesting
+- 🎓 **MSc Electronic Engineering** — Università di Pavia (expected 2026)
 
 ---
 
 ## Featured Projects
 
-| Project | Stack | Description |
-|---|---|---|
-| [GPT-Trader](https://github.com/sinaslmp/gpt-trader) | Django · Next.js · PostgreSQL · OpenAI | Fintech platform with backtesting, live market data, and LLM integration |
-| [Showrunner](https://github.com/sinaslmp/showrunner) | Django · Next.js · Socket.io · Docker | Real-time collaborative SaaS with Google OAuth |
-| [medtech-mini-webapp](https://github.com/sinaslmp/medtech-mini-webapp) | Vue · FastAPI | Arterial/venous image phase simulation for MedTech research |
+| Project | Stack | Description | Demo |
+|---|---|---|---|
+| **[Learnitali](https://github.com/sinaslmp/learnitali)** | Next.js · NestJS · PostgreSQL · Redis | Full-stack language learning platform with JWT auth, Prisma ORM, Docker | [Live](https://learnitali.vercel.app) |
+| **[Multimedia Scheduler](https://github.com/sinaslmp/multimedia-scheduler)** | FastAPI · Next.js · TypeScript · Docker | Real-time queue scheduling simulator: FIFO, Priority, Round Robin | [Live](https://multimedia-scheduler.vercel.app) |
+| **[MedTech Image Simulator](https://github.com/sinaslmp/medtech-mini-webapp)** | Vue · FastAPI · Docker | Arterial/venous medical image phase simulation with GitHub Actions CI/CD | [Live](https://sinaslmp.github.io/medtech-mini-webapp/) |
+| **GPT-Trader** | Django · Next.js · PostgreSQL · OpenAI | Fintech platform with backtesting, live market data, and LLM integration | — |
+| **Showrunner** | Django · Next.js · Socket.io · Docker | Real-time collaborative SaaS with Google OAuth | — |
 
 ---
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sinaslmp&show_icons=true&theme=default&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinaslmp&layout=compact&theme=default&hide_border=true" height="150" />
-</p>
+<div align="center">
+
+![Sina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sinaslmp&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sinaslmp&layout=compact&theme=dark&hide_border=true)
+
+</div>
 
 ---
 
 ## Contact
 
-- 💼 [linkedin.com/in/sinasoleymanpour](https://linkedin.com/in/sinasoleymanpour)
-- 📧 [Sina.Soleymanpour@yahoo.com](mailto:Sina.Soleymanpour@yahoo.com)
-- 📍 Milan / Pavia, Italy — EU work authorization, available immediately
+| | |
+|---|---|
+| 💼 LinkedIn | [linkedin.com/in/sinasoleymanpour](https://linkedin.com/in/sinasoleymanpour) |
+| 📧 Email | [Sina.Soleymanpour@yahoo.com](mailto:Sina.Soleymanpour@yahoo.com) |
+| 📍 Location | Milan / Pavia, Italy — EU work authorization, available immediately |
+| 💻 GitHub | [github.com/sinaslmp](https://github.com/sinaslmp) |
