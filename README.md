@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sina Soleymanpour 👋</h1>
 
 <p align="center">
-  Backend & Full-Stack Engineer &nbsp;|&nbsp; Python · Django · Next.js &nbsp;|&nbsp; LLM Integration &nbsp;|&nbsp; Milan, Italy
+  Backend & Full-Stack Engineer &nbsp;|&nbsp; Python · Django · Next.js &nbsp;|&nbsp; LLM Integration &nbsp;|&nbsp; Pavia, Italy
 </p>
 
 <p align="center">
