@@ -4,78 +4,102 @@
 
 **Backend & Full-Stack Engineer** | Python · Django · DRF · FastAPI · Next.js · React · TypeScript | AI/LLM Integration | Pavia, Italy
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://www.sinasoleymanpour.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sinasoleymanpour)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Sina.Soleymanpour@yahoo.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sinaslmp)
-[![Website](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=website&logoColor=white)](https://www.sinasoleymanpour.com/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Sina.Soleymanpour@yahoo.com)
 
 </div>
 
 ---
 
-## About Me
+## 🚀 About Me
 
-Backend and Full-Stack Engineer with **4+ years of production experience** across fintech, healthcare, and SaaS. I architect REST APIs, design normalized PostgreSQL schemas, and integrate LLM APIs (OpenAI, Gemini, Anthropic) directly into production workflows. Currently pursuing an MSc in Electronic Engineering at Università di Pavia, Italy.
+Backend and Full-Stack Engineer with **4+ years of production experience** building scalable web applications across fintech, healthcare, and SaaS. I specialize in designing REST APIs, scalable backend architectures, PostgreSQL databases, and integrating modern AI/LLM technologies into production systems.
 
-🇪🇺 **EU work authorization — no visa required. Available immediately.**
-📍 **Open to:** Remote (Europe-wide) · Hybrid/On-site (Milan, Italy) · Relocation to Netherlands or Germany
+Currently pursuing an **M.Sc. in Electronic Engineering** at the **University of Pavia, Italy** while actively seeking Software Engineering opportunities across Europe.
 
-**Target roles:** Backend Engineer · Full-Stack Engineer · AI/LLM Engineer · Software Engineer
+🇪🇺 **EU Work Authorization — Available Immediately**
 
----
+📍 **Open to**
+- Remote (Europe)
+- Hybrid / On-site (Milan, Italy)
+- Relocation (Germany & Netherlands)
 
-## Tech Stack
-
-**Backend**
-`Python` `Django` `Django REST Framework` `FastAPI` `Node.js` `NestJS` `WebSockets` `JWT` `OAuth2` `REST API`
-
-**Frontend**
-`Next.js` `React` `TypeScript` `JavaScript` `Tailwind CSS` `Vue.js`
-
-**Data & Infrastructure**
-`PostgreSQL` `Redis` `Docker` `GitHub Actions` `CI/CD` `Vercel` `Railway`
-
-**AI & LLM**
-`OpenAI API` `LangChain` `Anthropic Claude` `Google Gemini` `LLM Integration` `Prompt Engineering`
+**Target Roles**
+- Backend Engineer
+- Full-Stack Engineer
+- AI / LLM Engineer
+- Software Engineer
 
 ---
 
-## Featured Projects
+## 🛠 Tech Stack
+
+### Backend
+
+`Python` `Django` `Django REST Framework` `FastAPI` `Node.js` `NestJS` `REST API` `WebSockets` `JWT` `OAuth2`
+
+### Frontend
+
+`React` `Next.js` `TypeScript` `JavaScript` `Tailwind CSS` `Vue.js`
+
+### Databases & Infrastructure
+
+`PostgreSQL` `Redis` `Docker` `GitHub Actions` `CI/CD` `Railway` `Vercel`
+
+### AI & LLM
+
+`OpenAI API` `Google Gemini` `Anthropic Claude` `LangChain` `Prompt Engineering` `LLM Integration`
+
+---
+
+## ⭐ Featured Projects
 
 | Project | Stack | Description | Demo |
 |---------|-------|-------------|------|
-| **Learnitali** | Next.js · NestJS · PostgreSQL · Redis | Full-stack language learning platform with JWT auth, Prisma ORM, Docker | [Live](https://learnitali.up.railway.app) |
-| **Multimedia Scheduler** | FastAPI · Next.js · TypeScript · Docker | Real-time queue scheduling simulator: FIFO, Priority, Round Robin | [Live](https://multimedia-scheduler.vercel.app) |
-| **MedTech Image Simulator** | Vue · FastAPI · Docker | Arterial/venous medical image phase simulation with GitHub Actions CI/CD | [Live](https://sinaslmp.github.io/medtech-mini-webapp/) |
-| **GPT-Trader** | Django · Next.js · PostgreSQL · OpenAI | Fintech platform with backtesting, live market data, and LLM strategy analysis | — |
-| **Showrunner** | Django · Next.js · Socket.io · Docker | Real-time collaborative SaaS with Google OAuth and WebSocket multi-user sessions | — |
+| **Learnitali** | Next.js · NestJS · PostgreSQL · Redis | AI-powered language learning platform | https://learnitali.up.railway.app |
+| **AI Job Agent** | Next.js · AI Agents · Automation | Autonomous AI job search and application system | Coming Soon |
+| **Multimedia Scheduler** | FastAPI · Next.js · Docker | Queue scheduling simulator with multiple algorithms | https://multimedia-scheduler.vercel.app |
+| **MedTech Image Simulator** | FastAPI · Vue · Docker | Medical image phase simulation platform | https://sinaslmp.github.io/medtech-mini-webapp |
+| **GPT-Trader** | Django · Next.js · PostgreSQL · OpenAI | AI-powered trading analysis platform | Private |
+| **Showrunner** | Django · Next.js · PostgreSQL · WebSockets | Real-time SaaS marketplace platform | Private |
 
 ---
 
-## Key Achievements
+## 📈 Highlights
 
-- 🚀 **~30% reduction in PostgreSQL query latency** on a fintech platform by redesigning schema indexing and query structures for financial market data pipelines
-- - 📦 **Delivered production SaaS (Showrunner)** from system design to live deployment in under 6 months with real-time WebSocket collaboration
-  - - ⚕️ **20% operational efficiency gain** at Lenard Healthcare by engineering the Elzhen platform (Django + Angular), replacing manual medical equipment workflows
-   
-    - ---
+- 🚀 Improved PostgreSQL query performance by **~30%** through schema redesign and query optimization.
+- ⚕️ Built healthcare software that digitized medical equipment workflows.
+- 🤖 Developing AI-powered applications using OpenAI, Claude, and Gemini APIs.
+- 🌍 Building production-ready SaaS applications with Django, FastAPI, Next.js, PostgreSQL, Redis, Docker, and CI/CD.
+- 📚 Pursuing an M.Sc. while continuously building real-world software projects.
 
-    ## GitHub Stats
+---
 
-    <div align="center">
+## 📊 GitHub Stats
 
-    ![Sina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sinaslmp&show_icons=true&theme=dark&hide_border=true&count_private=true)
-    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sinaslmp&layout=compact&theme=dark&hide_border=true)
+<div align="center">
 
-    </div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sinaslmp&show_icons=true&theme=transparent&hide_border=true&count_private=true)
 
-    ---
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sinaslmp&layout=compact&theme=transparent&hide_border=true)
 
-    ## Contact
+</div>
 
-    | | |
-    |---|---|
-    | 💼 LinkedIn | [linkedin.com/in/sinasoleymanpour](https://linkedin.com/in/sinasoleymanpour) |
-    | 📧 Email | [Sina.Soleymanpour@yahoo.com](mailto:Sina.Soleymanpour@yahoo.com) |
-    | 📍 Location | Milan / Pavia, Italy — EU work authorization, available immediately |
-    | 💻 GitHub | [github.com/sinaslmp](https://github.com/sinaslmp) |
+---
+
+## 📫 Contact
+
+| | |
+|---|---|
+| 🌐 Portfolio | https://www.sinasoleymanpour.com |
+| 💼 LinkedIn | https://linkedin.com/in/sinasoleymanpour |
+| 💻 GitHub | https://github.com/sinaslmp |
+| 📧 Email | Sina.Soleymanpour@yahoo.com |
+| 📍 Location | Milan / Pavia, Italy |
+| 🇪🇺 Work Authorization | Eligible to work in the European Union |
+
+---
+
+> *Building scalable software, intelligent AI applications, and modern web platforms.*
