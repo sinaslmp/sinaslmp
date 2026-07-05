@@ -118,20 +118,6 @@ I'm currently pursuing an **M.Sc. in Electronic Engineering** at the **Universit
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sinaslmp&show_icons=true&theme=transparent&hide_border=true&count_private=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=sinaslmp&theme=transparent&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sinaslmp&layout=compact&theme=transparent&hide_border=true)
-
-</div>
-
----
-
 # 🌍 Current Focus
 
 - Building production-ready SaaS applications
