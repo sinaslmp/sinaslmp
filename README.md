@@ -98,7 +98,7 @@ I'm currently pursuing an **M.Sc. in Electronic Engineering** at the **Universit
 |---------|-------------|------|
 | **Learnitali** | AI-powered language learning platform | Next.js • NestJS • PostgreSQL • Redis |
 | **AI Job Agent** | Autonomous AI job discovery and application system | Next.js • AI Agents • Automation |
-| **GPT-Trader** | AI-powered trading analysis platform | Django • Next.js • PostgreSQL • OpenAI |
+| **AI-Trader** | AI-powered trading analysis platform | Django • Next.js • PostgreSQL • OpenAI |
 | **Showrunner** | Real-time SaaS marketplace | Django • Next.js • PostgreSQL • WebSockets |
 | **Multimedia Scheduler** | Queue scheduling simulator | FastAPI • Next.js • Docker |
 | **MedTech Image Simulator** | Medical image simulation platform | FastAPI • Vue • Docker |
