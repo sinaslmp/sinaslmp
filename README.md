@@ -1,4 +1,3 @@
-```md
 <div align="center">
 
 # Hi, I'm Sina Soleymanpour 👋
@@ -177,4 +176,3 @@ Remote (Europe) • Remote-first • Hybrid in Milan
 *Building scalable software, intelligent AI applications, and modern web platforms.*
 
 </div>
-```
